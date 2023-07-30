@@ -1,9 +1,13 @@
 ### Olá pessoa 👋
 
-- 🌱 Estudando de tudo por enquanto
-- 💬 Sou apenas um estudante de Engenharia de Computação
-- 📫 email: gian.2000@hotmail.com
-- ⚡ Fun fact: Fiz essa customização só pra aprender mesmo
+<div style="display: inline;">
+  <ul>
+    <li>🌱 Estudando de tudo por enquanto</li>
+    <li>💬 Estudante Engenharia de Computação UTFPR-CP</li>
+    <li>📫 email: gian.2000@hotmail.com</li> 
+    <li>⚡ Fun fact: Fiz essa customização só pra aprender mesmo</li>
+  </ul>
+</div>
 
 <div>
   <a href="https://github.com/GianSE">
@@ -17,7 +21,6 @@
   <img align="center" alt="Gian-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Gian-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Gian-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="right" alt="Gian-smoke" width="200" src="https://media.discordapp.net/attachments/1135076457715081277/1135077571646718113/Design_sem_nome2.gif?width=510&height=510" />
   
 </div>
 
@@ -30,6 +33,9 @@
   <a href="https://www.linkedin.com/in/gian-pedro-rodrigues-330397163/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:gian.2000@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.beecrowd.com.br/judge/pt/profile/725043" target="_blank"><img height="32em" src="https://beecrowd.io/wp-content/uploads/2021/08/beecrowd__roxoHorClean-small-PNG-1.png" target="_blank"></a>
-</div>  
+</div> <br>
 
-  ![snake gif](https://github.com/GianSE/GianSE/blob/output/github-contribution-grid-snake.svg)
+<img align="left" alt="Gian-smoke" width="150" src="https://media.discordapp.net/attachments/1135076457715081277/1135077571646718113/Design_sem_nome2.gif?width=510&height=510" />
+
+
+  <!-- ![snake gif](https://github.com/GianSE/GianSE/blob/output/github-contribution-grid-snake.svg) -->
