@@ -30,7 +30,4 @@
   <a href="https://www.linkedin.com/in/gian-pedro-rodrigues-330397163/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:gian.2000@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.beecrowd.com.br/judge/pt/profile/725043" target="_blank"><img height="32em" src="https://beecrowd.io/wp-content/uploads/2021/08/beecrowd__roxoHorClean-small-PNG-1.png" target="_blank"></a>
-</div>
-
-  ![Snake animation](https://github.com/GianSE/GianSE/blob/output/github-contribution-grid-snake.svg)
-  
+</div>  
