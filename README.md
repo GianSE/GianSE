@@ -32,4 +32,4 @@
   <a href="https://www.beecrowd.com.br/judge/pt/profile/725043" target="_blank"><img height="32em" src="https://beecrowd.io/wp-content/uploads/2021/08/beecrowd__roxoHorClean-small-PNG-1.png" target="_blank"></a>
 </div>  
 
-  ![Snake animation](https://github.com/GianSE/GianSE/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/GianSE/GianSE/blob/output/github-contribution-grid-snake.svg)
