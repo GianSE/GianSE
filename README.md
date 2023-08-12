@@ -5,7 +5,7 @@
     <li>🌱 Estudando de tudo por enquanto</li>
     <li>💬 Estudante Engenharia de Computação UTFPR-CP</li>
     <li>📫 email: gian.2000@hotmail.com</li> 
-    <li>⚡ Fact: Ainda não é um perfil profissional no git</li>
+    <li>⚡ Fact: Ainda não é um perfil profissional no github</li>
   </ul>
 </div>
 
