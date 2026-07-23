@@ -1,12 +1,13 @@
 <h1 align="center">Olá, eu sou o Gian 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6272A4&center=true&vCenter=true&width=520&lines=Engenharia+de+Dados+%26+Software;Analista+de+Dados+%40+Drogamais;Python+%C2%B7+Docker+%C2%B7+CI%2FCD+%C2%B7+Data+Lake;Estudante+de+Eng.+de+Computa%C3%A7%C3%A3o+-+UTFPR" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6272A4&center=true&vCenter=true&width=560&lines=Engenharia+de+Dados+%26+Software;Analista+de+Dados+%40+Drogamais;Desenvolvimento+com+IA+%26+Agentes;RAG+%C2%B7+Claude+Code+%C2%B7+Harness+Engineering;Estudante+de+Eng.+de+Computa%C3%A7%C3%A3o+-+UTFPR" alt="Typing SVG" />
 </p>
 
 - 💼 **Analista de Dados** na [Drogamais](https://github.com/drogamais) — pipeline de dados ponta a ponta em produção (coleta → Data Lake → dashboards)
 - 🎓 Estudante de Engenharia de Computação — UTFPR-CP
 - 🧠 Atuo com arquitetura de software/dados no geral, mas com foco maior em **engenharia de dados**
+- 🤖 **Desenvolvimento com IA & construção de agentes** — RAG, harness engineering e agentes, principalmente com **Claude Code**
 - 🛠️ No dia a dia: Python, Docker, CI/CD, DuckDB, pandas, polars, Prefect, MariaDB, Node, React, Power BI, Authentik
 - 🌐 Portfólio completo: [gian-pedro-rodrigues.workers.dev](https://portifolio.gian-pedro-rodrigues.workers.dev/)
 - 📫 Contato: gianpedrodev@gmail.com
@@ -31,6 +32,16 @@
   <img src="https://img.shields.io/badge/Prefect-070E10?style=for-the-badge&logo=prefect&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+</p>
+
+**IA & Agentes**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentes%20de%20IA-6E56CF?style=for-the-badge&logo=openaigym&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-1868F2?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Harness%20Engineering-2B3137?style=for-the-badge&logo=gnometerminal&logoColor=white" />
 </p>
 
 **Web & Infra**
