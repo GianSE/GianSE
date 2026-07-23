@@ -54,12 +54,12 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GianSE&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GianSE&layout=compact&langs_count=16&theme=blueberry" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GianSE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GianSE&layout=compact&langs_count=16&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GianSE&theme=blueberry" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=GianSE&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ## 🐍 Snake
