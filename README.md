@@ -58,6 +58,8 @@
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| [**mercadotech**](https://github.com/GianSE/mercadotech) | TCC: plataforma analítica do mercado de trabalho formal em TI no Brasil (2007–2026) com microdados RAIS/CAGED — crescimento, distribuição geográfica, qualidade do emprego, desigualdade salarial (Oaxaca-Blinder) e projeções (SARIMA, nowcasting) | Python, DuckDB, statsmodels, scikit-learn, Parquet + Hugging Face, GitHub Actions, React, DuckDB-Wasm, ECharts |
+| [**mercadobrasil**](https://github.com/GianSE/mercadobrasil) | Expansão do mercadotech: pipeline (bronze/silver/gold) que recorta RAIS/CAGED em 9 áreas (TI, saúde, educação, agro, finanças, indústria, construção, logística, comércio) e publica cada uma como dado aberto no Hugging Face | Python, Parquet, Hugging Face, GitHub Actions, React, Tailwind, ECharts, Cloudflare Workers |
 | [**mp_cesta_basica**](https://github.com/GianSE/mp_cesta_basica) | Pipeline (bronze/silver/gold) que monitora o preço de ~120 itens da cesta básica em municípios brasileiros via API do Menor Preço | Python, Polars, Prefect, Parquet, Azure Blob, Docker |
 | [**Tutoria_tech**](https://github.com/GianSE/Tutoria_tech) | Plataforma de mentoria do Meninas Digitais UTFPR, com RBAC (Admin/Mentor/Aluna) e assistente de IA (RAG) sobre o material do programa | React, Node/Fastify, FastAPI, PostgreSQL + pgvector, Gemini, Docker |
 | [**semantic-federeted**](https://github.com/GianSE/semantic-federeted) | Iniciação científica: compressão semântica de imagens com autoencoders + Federated Learning (até 192× de compressão), artigo submetido ao IEEE | Python, PyTorch, FedAvg |
@@ -65,8 +67,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GianSE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GianSE&layout=compact&langs_count=16&theme=tokyonight" />
+  <img height="180" src="./profile/stats.svg" />
+  <img height="180" src="./profile/top-langs.svg" />
 </p>
 
 <p align="center">
